@@ -1,0 +1,62 @@
+[
+	{
+		"url": "https://raw.githubusercontent.com/maradona4/APIs/main/Universo/buraconegro.png",
+		"name": "Buraco negro",
+		"what": "UNIVERSO"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/maradona4/APIs/main/Universo/ton.png",
+		"name": "Ton 618",
+		"what": "UNIVERSO"
+	},
+    {
+		"url": "https://raw.githubusercontent.com/maradona4/APIs/main/Universo/netuno.png",
+		"name": "Netuno",
+		"what": "UNIVERSO"
+	},
+    {
+		"url": "https://raw.githubusercontent.com/maradona4/APIs/main/Universo/terra.png",
+		"name": "Terra",
+		"what": "UNIVERSO"
+	},
+    {
+		"url": "https://raw.githubusercontent.com/maradona4/APIs/main/Universo/asteroide.png",
+		"name": "Asteroide",
+		"what": "UNIVERSO"
+	},
+    {
+		"url": "https://raw.githubusercontent.com/maradona4/APIs/main/Universo/lua.png",
+		"name": "Lua",
+		"what": "UNIVERSO"
+	},
+    {
+		"url": "https://raw.githubusercontent.com/maradona4/APIs/main/Universo/saturno.png",
+		"name": "Saturno",
+		"what": "UNIVERSO"
+	},
+    {
+		"url": "https://raw.githubusercontent.com/maradona4/APIs/main/Universo/galaxia.png",
+		"name": "Galaxia",
+		"what": "UNIVERSO"
+	},
+    {
+		"url": "https://raw.githubusercontent.com/maradona4/APIs/main/Universo/urano.png",
+		"name": "Urano",
+		"what": "UNIVERSO"
+	},
+    {
+		"url": "https://raw.githubusercontent.com/maradona4/APIs/main/Universo/plutao.png",
+		"name": "Plutao",
+		"what": "UNIVERSO"
+	},
+    {
+		"url": "https://raw.githubusercontent.com/maradona4/APIs/main/Universo/jupiter.png",
+		"name": "Júpiter",
+		"what": "UNIVERSO"
+	},
+    {
+		"url": "https://raw.githubusercontent.com/maradona4/APIs/main/Universo/solar.png",
+		"name": "Sistema solar",
+		"what": "UNIVERSO"
+	}
+]
