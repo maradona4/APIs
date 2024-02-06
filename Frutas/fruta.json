@@ -1,0 +1,147 @@
+[
+	{
+		"name": "Abacate",
+		"url": "https://raw.githubusercontent.com/maradona4/APIs/main/Frutas/abacate.png",
+		"what": "Frutas"
+	},
+	{
+		"name": "Abacaxi",
+		"url": "https://raw.githubusercontent.com/maradona4/APIs/main/Frutas/abacaxi.png",
+		"what": "Frutas"
+	},
+	{
+		"name": "Açaí",
+		"url": "https://raw.githubusercontent.com/maradona4/APIs/main/Frutas/acai.png",
+		"what": "Frutas"
+	},
+    {
+		"name": "Acerola",
+		"url": "https://raw.githubusercontent.com/maradona4/APIs/main/Frutas/acerola.png",
+		"what": "Frutas"
+	},
+    {
+		"name": "Amora",
+		"url": "https://raw.githubusercontent.com/maradona4/APIs/main/Frutas/amora.png",
+		"what": "Frutas"
+	},
+    {
+		"name": "Araticum",
+		"url": "https://raw.githubusercontent.com/maradona4/APIs/main/Frutas/araticum.png",
+		"what": "Frutas"
+	},
+    {
+		"name": "Banana",
+		"url": "https://raw.githubusercontent.com/maradona4/APIs/main/Frutas/banana.png",
+		"what": "Frutas"
+	},
+    {
+		"name": "Cacau",
+		"url": "https://raw.githubusercontent.com/maradona4/APIs/main/Frutas/cacau.png",
+		"what": "Frutas"
+	},
+    {
+		"name": "Cajá",
+		"url": "https://raw.githubusercontent.com/maradona4/APIs/main/Frutas/caja.png",
+		"what": "Frutas"
+	},
+    {
+		"name": "Caqui",
+		"url": "https://raw.githubusercontent.com/maradona4/APIs/main/Frutas/caqui.png",
+		"what": "Frutas"
+	},
+    {
+		"name": "Carambola",
+		"url": "https://raw.githubusercontent.com/maradona4/APIs/main/Frutas/carambola.png",
+		"what": "Frutas"
+	},
+    {
+		"name": "Cereja",
+		"url": "https://raw.githubusercontent.com/maradona4/APIs/main/Frutas/cereja.png",
+		"what": "Frutas"
+	},
+    {
+		"name": "Cidra",
+		"url": "https://raw.githubusercontent.com/maradona4/APIs/main/Frutas/cidra.png",
+		"what": "Frutas"
+	},
+    {
+		"name": "Coco",
+		"url": "https://raw.githubusercontent.com/maradona4/APIs/main/Frutas/coco.png",
+		"what": "Frutas"
+	},
+    {
+		"name": "Cupuaçu",
+		"url": "https://raw.githubusercontent.com/maradona4/APIs/main/Frutas/cupuacu.png",
+		"what": "Frutas"
+	},
+    {
+		"name": "Framboesa",
+		"url": "https://raw.githubusercontent.com/maradona4/APIs/main/Frutas/framboesa.png",
+		"what": "Frutas"
+	},
+    {
+		"name": "Groselha",
+		"url": "https://raw.githubusercontent.com/maradona4/APIs/main/Frutas/groselha.png",
+		"what": "Frutas"
+	},
+    {
+		"name": "Laranja",
+		"url": "https://raw.githubusercontent.com/maradona4/APIs/main/Frutas/laranja.png",
+		"what": "Frutas"
+	},
+    {
+		"name": "Limão",
+		"url": "https://raw.githubusercontent.com/maradona4/APIs/main/Frutas/limao.png",
+		"what": "Frutas"
+	},
+    {
+		"name": "Maçã",
+		"url": "https://raw.githubusercontent.com/maradona4/APIs/main/Frutas/maca.png",
+		"what": "Frutas"
+	},
+    {
+		"name": "Mamão",
+		"url": "https://raw.githubusercontent.com/maradona4/APIs/main/Frutas/mamao.png",
+		"what": "Frutas"
+	},
+    {
+		"name": "Manga",
+		"url": "https://raw.githubusercontent.com/maradona4/APIs/main/Frutas/manga.png",
+		"what": "Frutas"
+	},
+    {
+		"name": "Maracujá",
+		"url": "https://raw.githubusercontent.com/maradona4/APIs/main/Frutas/maracuja.png",
+		"what": "Frutas"
+	},
+    {
+		"name": "Melancia",
+		"url": "https://raw.githubusercontent.com/maradona4/APIs/main/Frutas/melancia.png",
+		"what": "Frutas"
+	},
+    {
+		"name": "Melão",
+		"url": "https://raw.githubusercontent.com/maradona4/APIs/main/Frutas/melao.png",
+		"what": "Frutas"
+	},
+    {
+		"name": "Morango",
+		"url": "https://raw.githubusercontent.com/maradona4/APIs/main/Frutas/morango.png",
+		"what": "Frutas"
+	},
+    {
+		"name": "Pera",
+		"url": "https://raw.githubusercontent.com/maradona4/APIs/main/Frutas/pera.png",
+		"what": "Frutas"
+	},
+    {
+		"name": "Tangerina",
+		"url": "https://raw.githubusercontent.com/maradona4/APIs/main/Frutas/tangerina.png",
+		"what": "Frutas"
+	},
+    {
+		"name": "Uva verde",
+		"url": "https://raw.githubusercontent.com/maradona4/APIs/main/Frutas/uva.png",
+		"what": "Frutas"
+	}
+]
