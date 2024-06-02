@@ -1,0 +1,627 @@
+[
+	{
+		"url": "https://raw.githubusercontent.com/maradona4/APIs/main/Objeto/abaco.png",
+		"name": "abaco",
+		"what": "OBJETO"
+	},
+    {
+		"url": "https://raw.githubusercontent.com/maradona4/APIs/main/Objeto/abajur.jpg",
+		"name": "abajur",
+		"what": "OBJETO"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/maradona4/APIs/main/Objeto/acucareiro.jpg",
+		"name": "acucareiro",
+		"what": "OBJETO"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/maradona4/APIs/main/Objeto/agogo.png",
+		"name": "agogo",
+		"what": "OBJETO"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/maradona4/APIs/main/Objeto/alfinete.jpg",
+		"name": "alfinete",
+		"what": "OBJETO"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/maradona4/APIs/main/Objeto/alforje.jpg",
+		"name": "alforje",
+		"what": "OBJETO"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/maradona4/APIs/main/Objeto/algema.jpg",
+		"name": "algema",
+		"what": "OBJETO"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/maradona4/APIs/main/Objeto/alicate.jpg",
+		"name": "alicate",
+		"what": "OBJETO"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/maradona4/APIs/main/Objeto/almofada.jpeg",
+		"name": "almofada",
+		"what": "OBJETO"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/maradona4/APIs/main/Objeto/ampulheta.jpg",
+		"name": "ampulheta",
+		"what": "OBJETO"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/maradona4/APIs/main/Objeto/anel.png",
+		"name": "anel",
+		"what": "OBJETO"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/maradona4/APIs/main/Objeto/antena.jpg",
+		"name": "antena",
+		"what": "OBJETO"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/maradona4/APIs/main/Objeto/anzol.jpg",
+		"name": "anzol",
+		"what": "OBJETO"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/maradona4/APIs/main/Objeto/apagador.jpg",
+		"name": "apagador",
+		"what": "OBJETO"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/maradona4/APIs/main/Objeto/apito.jpg",
+		"name": "apito",
+		"what": "OBJETO"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/maradona4/APIs/main/Objeto/apontador.png",
+		"name": "apontador",
+		"what": "OBJETO"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/maradona4/APIs/main/Objeto/aquecedor.jpg",
+		"name": "aquecedor",
+		"what": "OBJETO"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/maradona4/APIs/main/Objeto/arado.jpg",
+		"name": "arado",
+		"what": "OBJETO"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/maradona4/APIs/main/Objeto/arco.jpg",
+		"name": "arco",
+		"what": "OBJETO"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/maradona4/APIs/main/Objeto/armadura.jpg",
+		"name": "armadura",
+		"what": "OBJETO"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/maradona4/APIs/main/Objeto/aro.png",
+		"name": "aro",
+		"what": "OBJETO"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/maradona4/APIs/main/Objeto/aspirador.jpg",
+		"name": "aspirado",
+		"what": "OBJETO"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/maradona4/APIs/main/Objeto/astrolabio.jpg",
+		"name": "astrolabio",
+		"what": "OBJETO"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/maradona4/APIs/main/Objeto/bacia.jpg",
+		"name": "bacia",
+		"what": "OBJETO"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/maradona4/APIs/main/Objeto/balaio.jpg",
+		"name": "balaio",
+		"what": "OBJETO"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/maradona4/APIs/main/Objeto/balanca.jpg",
+		"name": "balanca",
+		"what": "OBJETO"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/maradona4/APIs/main/Objeto/balde.png",
+		"name": "balde",
+		"what": "OBJETO"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/maradona4/APIs/main/Objeto/bambole.jpg",
+		"name": "bambole",
+		"what": "OBJETO"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/maradona4/APIs/main/Objeto/banco.jpg",
+		"name": "banco",
+		"what": "OBJETO"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/maradona4/APIs/main/Objeto/bandeira.jpeg",
+		"name": "bandeira",
+		"what": "OBJETO"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/maradona4/APIs/main/Objeto/batuta.jpg",
+		"name": "batuta",
+		"what": "OBJETO"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/maradona4/APIs/main/Objeto/bengala.jpg",
+		"name": "bengala",
+		"what": "OBJETO"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/maradona4/APIs/main/Objeto/berco.png",
+		"name": "berco",
+		"what": "OBJETO"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/maradona4/APIs/main/Objeto/berimbau.jpg",
+		"name": "berimbau",
+		"what": "OBJETO"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/maradona4/APIs/main/Objeto/bicicleta.jpg",
+		"name": "bicicleta",
+		"what": "OBJETO"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/maradona4/APIs/main/Objeto/bigorna.jpg",
+		"name": "bigorna",
+		"what": "OBJETO"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/maradona4/APIs/main/Objeto/binoculo.jpg",
+		"name": "binoculo",
+		"what": "OBJETO"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/maradona4/APIs/main/Objeto/biruta.jpg",
+		"name": "biruta",
+		"what": "OBJETO"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/maradona4/APIs/main/Objeto/bola.jpg",
+		"name": "bola",
+		"what": "OBJETO"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/maradona4/APIs/main/Objeto/boneca.png",
+		"name": "boneca",
+		"what": "OBJETO"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/maradona4/APIs/main/Objeto/borracha.jpg",
+		"name": "borracha",
+		"what": "OBJETO"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/maradona4/APIs/main/Objeto/botao.jpg",
+		"name": "botao",
+		"what": "OBJETO"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/maradona4/APIs/main/Objeto/brinco.jpeg",
+		"name": "brinco",
+		"what": "OBJETO"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/maradona4/APIs/main/Objeto/bule.jpg",
+		"name": "bule",
+		"what": "OBJETO"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/maradona4/APIs/main/Objeto/bumerangue.jpg",
+		"name": "bumerangue",
+		"what": "OBJETO"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/maradona4/APIs/main/Objeto/bussola.jpg",
+		"name": "bussola",
+		"what": "OBJETO"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/maradona4/APIs/main/Objeto/cabide.jpg",
+		"name": "cabide",
+		"what": "OBJETO"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/maradona4/APIs/main/Objeto/cadeado.jpg",
+		"name": "cadeado",
+		"what": "OBJETO"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/maradona4/APIs/main/Objeto/cadeira.jpg",
+		"name": "cadeira",
+		"what": "OBJETO"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/maradona4/APIs/main/Objeto/caderno.jpg",
+		"name": "caderno",
+		"what": "OBJETO"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/maradona4/APIs/main/Objeto/calculadora.jpg",
+		"name": "calculadora",
+		"what": "OBJETO"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/maradona4/APIs/main/Objeto/calice.png",
+		"name": "calice",
+		"what": "OBJETO"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/maradona4/APIs/main/Objeto/candeeiro.jpeg",
+		"name": "candeeiro",
+		"what": "OBJETO"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/maradona4/APIs/main/Objeto/caneca.jpg",
+		"name": "caneca",
+		"what": "OBJETO"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/maradona4/APIs/main/Objeto/caneta.jpg",
+		"name": "caneta",
+		"what": "OBJETO"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/maradona4/APIs/main/Objeto/capa.jpg",
+		"name": "capa",
+		"what": "OBJETO"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/maradona4/APIs/main/Objeto/capacete.png",
+		"name": "capacete",
+		"what": "OBJETO"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/maradona4/APIs/main/Objeto/cassetete.jpg",
+		"name": "cassetete",
+		"what": "OBJETO"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/maradona4/APIs/main/Objeto/celular.jpg",
+		"name": "celular",
+		"what": "OBJETO"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/maradona4/APIs/main/Objeto/chinelo.jpg",
+		"name": "chinelo",
+		"what": "OBJETO"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/maradona4/APIs/main/Objeto/chupeta.png",
+		"name": "chupeta",
+		"what": "OBJETO"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/maradona4/APIs/main/Objeto/clipe.jpg",
+		"name": "clipe",
+		"what": "OBJETO"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/maradona4/APIs/main/Objeto/computador.jpg",
+		"name": "computador",
+		"what": "OBJETO"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/maradona4/APIs/main/Objeto/daguerreotipo.jpg",
+		"name": "daguerreotipo",
+		"what": "OBJETO"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/maradona4/APIs/main/Objeto/delineador.jpg",
+		"name": "delineador",
+		"what": "OBJETO"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/maradona4/APIs/main/Objeto/desentupidor.jpg",
+		"name": "desentupidor",
+		"what": "OBJETO"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/maradona4/APIs/main/Objeto/desfibrilador.jpg",
+		"name": "desfibrilador",
+		"what": "OBJETO"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/maradona4/APIs/main/Objeto/despertador.jpg",
+		"name": "despertador",
+		"what": "OBJETO"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/maradona4/APIs/main/Objeto/detergente.jpeg",
+		"name": "detergente",
+		"what": "OBJETO"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/maradona4/APIs/main/Objeto/dinamite.jpg",
+		"name": "dinamite",
+		"what": "OBJETO"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/maradona4/APIs/main/Objeto/disco.jpg",
+		"name": "disco",
+		"what": "OBJETO"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/maradona4/APIs/main/Objeto/disquete.jpg",
+		"name": "disquete",
+		"what": "OBJETO"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/maradona4/APIs/main/Objeto/dobradica.jpg",
+		"name": "dobradica",
+		"what": "OBJETO"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/maradona4/APIs/main/Objeto/drone.jpg",
+		"name": "drone",
+		"what": "OBJETO"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/maradona4/APIs/main/Objeto/escada.png",
+		"name": "escada",
+		"what": "OBJETO"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/maradona4/APIs/main/Objeto/escova.jpg",
+		"name": "escova",
+		"what": "OBJETO"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/maradona4/APIs/main/Objeto/filmadora.jpg",
+		"name": "filmadora",
+		"what": "OBJETO"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/maradona4/APIs/main/Objeto/funil.jpg",
+		"name": "funil",
+		"what": "OBJETO"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/maradona4/APIs/main/Objeto/gancho.jpg",
+		"name": "gancho",
+		"what": "OBJETO"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/maradona4/APIs/main/Objeto/garrafa.png",
+		"name": "garrafa",
+		"what": "OBJETO"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/maradona4/APIs/main/Objeto/geladeira.jpg",
+		"name": "geladeira",
+		"what": "OBJETO"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/maradona4/APIs/main/Objeto/grampeador.jpg",
+		"name": "grampeador",
+		"what": "OBJETO"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/maradona4/APIs/main/Objeto/guarda-chuva.jpg",
+		"name": "guarda-chuva",
+		"what": "OBJETO"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/maradona4/APIs/main/Objeto/guarda-sol.jpg",
+		"name": "guarda-sol",
+		"what": "OBJETO"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/maradona4/APIs/main/Objeto/guitarra.jpg",
+		"name": "guitarra",
+		"what": "OBJETO"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/maradona4/APIs/main/Objeto/harmonica.jpg",
+		"name": "harmonica",
+		"what": "OBJETO"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/maradona4/APIs/main/Objeto/helicoptero.jpg",
+		"name": "helicoptero",
+		"what": "OBJETO"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/maradona4/APIs/main/Objeto/hidrante.jpg",
+		"name": "hidrante",
+		"what": "OBJETO"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/maradona4/APIs/main/Objeto/impressora.jpg",
+		"name": "impressora",
+		"what": "OBJETO"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/maradona4/APIs/main/Objeto/interruptor.jpg",
+		"name": "interruptor",
+		"what": "OBJETO"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/maradona4/APIs/main/Objeto/janela.jpg",
+		"name": "janela",
+		"what": "OBJETO"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/maradona4/APIs/main/Objeto/kart.jpg",
+		"name": "kart",
+		"what": "OBJETO"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/maradona4/APIs/main/Objeto/lampada.jpg",
+		"name": "lampada",
+		"what": "OBJETO"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/maradona4/APIs/main/Objeto/lanterna.jpg",
+		"name": "laterna",
+		"what": "OBJETO"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/maradona4/APIs/main/Objeto/lapis.png",
+		"name": "lapis",
+		"what": "OBJETO"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/maradona4/APIs/main/Objeto/liquidificador.jpg",
+		"name": "liquidificador",
+		"what": "OBJETO"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/maradona4/APIs/main/Objeto/luva.jpg",
+		"name": "luva",
+		"what": "OBJETO"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/maradona4/APIs/main/Objeto/megafone.jpg",
+		"name": "megafone",
+		"what": "OBJETO"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/maradona4/APIs/main/Objeto/microfone.jpg",
+		"name": "microfone",
+		"what": "OBJETO"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/maradona4/APIs/main/Objeto/mochila.jpg",
+		"name": "mochila",
+		"what": "OBJETO"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/maradona4/APIs/main/Objeto/oculos.png",
+		"name": "oculos",
+		"what": "OBJETO"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/maradona4/APIs/main/Objeto/quebra-cabeca.png",
+		"name": "quebra-cabeca",
+		"what": "OBJETO"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/maradona4/APIs/main/Objeto/quebra-nozes.jpg",
+		"name": "quebra-nozes",
+		"what": "OBJETO"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/maradona4/APIs/main/Objeto/radar.jpg",
+		"name": "radar",
+		"what": "OBJETO"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/maradona4/APIs/main/Objeto/radio.jpg",
+		"name": "radio",
+		"what": "OBJETO"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/maradona4/APIs/main/Objeto/regua.jpg",
+		"name": "regua",
+		"what": "OBJETO"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/maradona4/APIs/main/Objeto/relogio.jpg",
+		"name": "relogio",
+		"what": "OBJETO"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/maradona4/APIs/main/Objeto/sabonete.jpg",
+		"name": "sabonete",
+		"what": "OBJETO"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/maradona4/APIs/main/Objeto/sacola.jpg",
+		"name": "sacola",
+		"what": "OBJETO"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/maradona4/APIs/main/Objeto/saxofone.jpg",
+		"name": "saxofone",
+		"what": "OBJETO"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/maradona4/APIs/main/Objeto/spray.jpg",
+		"name": "spray",
+		"what": "OBJETO"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/maradona4/APIs/main/Objeto/tabua.jpg",
+		"name": "tabua",
+		"what": "OBJETO"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/maradona4/APIs/main/Objeto/teclado.jpg",
+		"name": "teclado",
+		"what": "OBJETO"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/maradona4/APIs/main/Objeto/telefone.jpg",
+		"name": "telefone",
+		"what": "OBJETO"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/maradona4/APIs/main/Objeto/telescopio.jpg",
+		"name": "telescopio",
+		"what": "OBJETO"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/maradona4/APIs/main/Objeto/televisao.jpg",
+		"name": "televisao",
+		"what": "OBJETO"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/maradona4/APIs/main/Objeto/tesoura.jpg",
+		"name": "tesoura",
+		"what": "OBJETO"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/maradona4/APIs/main/Objeto/tijolo.jpg",
+		"name": "tijolo",
+		"what": "OBJETO"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/maradona4/APIs/main/Objeto/trofeu.jpg",
+		"name": "trofeu",
+		"what": "OBJETO"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/maradona4/APIs/main/Objeto/urso-de-pelucia.jpg",
+		"name": "urso de pelucia",
+		"what": "OBJETO"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/maradona4/APIs/main/Objeto/vassoura.jpg",
+		"name": "vassoura",
+		"what": "OBJETO"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/maradona4/APIs/main/Objeto/velocimetro.jpg",
+		"name": "velocimetro",
+		"what": "OBJETO"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/maradona4/APIs/main/Objeto/ventilador.jpg",
+		"name": "ventilador",
+		"what": "OBJETO"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/maradona4/APIs/main/Objeto/violao.jpg",
+		"name": "violao",
+		"what": "OBJETO"
+	},
+	{
+		"url": "https://raw.githubusercontent.com/maradona4/APIs/main/Objeto/xadrez.jpg",
+		"name": "xadrez",
+		"what": "OBJETO"
+	}
+]
